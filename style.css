@@ -1,0 +1,46 @@
+body{
+    background-color: #5d5d5d;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainHeading {
+ color: #000000;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#hobby{
+    color: #ffffff;
+}
+#hobbyList{
+    color: #ffffff;
+}
+
+.highlight {
+    color: #0fffff;
+}
+#introText {
+   width: 790px;  
+   float: left;
+}
+#pfp {
+    width: 499; height: 353;
+    float: left;
+}
+#meme {
+   width: 555; height: 373;
+   background-color: #000000;
+   float: left;
+}
+#hobbies {
+   width: 701; height: 590;
+   background-color: #000000;
+   float: left;
+}
+#socials{
+    width: 555; height: 123;
+    background-color: #000000;
+    float: left;
+}
+
+.reset{
+   clear: both;
+}
