@@ -1,8 +1,11 @@
 body{
     background-color: #5d5d5d;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
 }
-
+h1{
+    margin: 0px;
+}
 #mainHeading {
  color: #000000;
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -20,27 +23,32 @@ body{
 #introText {
    width: 790px;  
    float: left;
+   margin: 0px 10px 10px 0px;
 }
 #pfp {
-    width: 499; height: 353;
+    width: 499px; height: 353px;
     float: left;
 }
 #meme {
-   width: 555; height: 373;
+   width: 555px; height: 373px;
    background-color: #000000;
    float: left;
 }
 #hobbies {
-   width: 701; height: 590;
+   width: 701px; height: 590px;
    background-color: #000000;
    float: left;
 }
 #socials{
-    width: 555; height: 123;
+    width: 555px; height: 123px;
     background-color: #000000;
     float: left;
 }
 
 .reset{
    clear: both;
+}
+#pageContainer{
+    width: 1440px;
+    margin: 0px auto 0px auto;
 }
