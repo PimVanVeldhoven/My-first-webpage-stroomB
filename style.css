@@ -1,5 +1,6 @@
+/*intro and main parts of the page*/
 body{
-    background-color: #5d5d5d;
+    background-color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
 }
@@ -10,6 +11,7 @@ h1{
  color: #000000;
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+/*items in the page*/
 #hobby{
     color: #ffffff;
 }
@@ -34,10 +36,14 @@ h1{
    background-color: #000000;
    float: left;
 }
+#memePicture {
+    margin: 30px 0px 0px 40px;
+}
 #hobbies {
-   width: 701px; height: 590px;
+   width: 700px; height: 440px;
    background-color: #000000;
    float: left;
+   margin: 0px 0px 0px 44px;
 }
 #socials{
     width: 555px; height: 123px;
@@ -51,4 +57,5 @@ h1{
 #pageContainer{
     width: 1440px;
     margin: 0px auto 0px auto;
+    background-color: #5d5d5d;
 }
