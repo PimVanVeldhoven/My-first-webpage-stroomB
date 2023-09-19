@@ -1,15 +1,20 @@
 /*intro and main parts of the page*/
 body{
-    background-color: #ffffff;
+    background-color: #000000;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
 }
 h1{
     margin: 0px;
 }
+#navigation{
+    width: 200px;
+    background-color: #000000;
+}
 #mainHeading {
  color: #000000;
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ margin: 0px 0px 0px 10px;
 }
 /*items in the page*/
 #hobby{
@@ -23,32 +28,36 @@ h1{
     color: #0fffff;
 }
 #introText {
-   width: 790px;  
+   width: 780px;  
    float: left;
-   margin: 0px 10px 10px 0px;
+   margin: 0px 10px 10px 10px;
 }
 #pfp {
-    width: 499px; height: 353px;
+    width: 459px; height: 323px;
     float: left;
+    margin-top: -30px;
+    margin-left: 165px;
 }
 #meme {
-   width: 555px; height: 373px;
+   width: 555px; height: 353px;
    background-color: #000000;
    float: left;
+   margin: -120px 0px 0px 15px;
 }
 #memePicture {
-    margin: 30px 0px 0px 40px;
+    margin: 25px 0px 0px 40px;
 }
 #hobbies {
-   width: 700px; height: 440px;
+   width: 580px; height: 440px;
    background-color: #000000;
    float: left;
-   margin: 0px 0px 0px 44px;
+   margin: -20px 0px 0px 274px;
 }
 #socials{
     width: 555px; height: 123px;
     background-color: #000000;
     float: left;
+    margin: -135px 0px 0px 15px;
 }
 
 .reset{
