@@ -48,10 +48,10 @@ h1{
     margin: 25px 0px 0px 40px;
 }
 #hobbies {
-   width: 580px; height: 440px;
+   width: 580px; height: 437px;
    background-color: #000000;
    float: left;
-   margin: -20px 0px 0px 274px;
+   margin: -20px 0px 5px 274px;
 }
 #socials{
     width: 555px; height: 123px;
@@ -67,4 +67,20 @@ h1{
     width: 1440px;
     margin: 0px auto 0px auto;
     background-color: #5d5d5d;
+}
+#yt{
+    margin: 20px 0px 0px 40px;
+}
+#spotify{
+    margin: 20px 0px 0px 40px;
+}
+#discord{
+    margin: 20px 0px 0px 40px;
+}
+#error{
+    margin: 20px 0px 0px 40px;
+}
+#indexpage{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
 }
